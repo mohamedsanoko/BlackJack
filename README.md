@@ -22,3 +22,5 @@ Python 3.x
 
 Contributors:
 Mohamed Sanoko
+
+Enjoy playing Blackjack!
